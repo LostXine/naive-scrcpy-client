@@ -1,0 +1,13 @@
+*.pyc
+.idea/*
+__pycache__/*
+*.pkl
+*.spec
+build/*
+dist/*
+*.zip
+*.exe
+*.dll
+*.so
+*.a
+
