@@ -1,3 +1,6 @@
+# Update
+## <b> Please consider checking [native-android-ssr](https://github.com/LostXine/naive-android-ssr) for better experience.</b>
+
 # Naive Scrcpy Client
 
 A naive client of [Scrcpy](https://github.com/Genymobile/scrcpy) in Python. 
