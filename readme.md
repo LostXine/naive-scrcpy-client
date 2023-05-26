@@ -1,5 +1,5 @@
 # Update
-## <b> Please consider checking [native-android-ssr](https://github.com/LostXine/naive-android-ssr) for better experience.</b>
+## <b> The method I used in this project is out of date. Please consider using [naive-android-ssr](https://github.com/LostXine/naive-android-ssr) for better video decoding experience.</b>
 
 # Naive Scrcpy Client
 
